@@ -4,7 +4,7 @@ This file explorer is a partial representation of an online file management syst
 
   - Modern material design
   - File Uploads and Ordering
-  - File storage in FirebaseDB
+  
 
 ## Tech
 
